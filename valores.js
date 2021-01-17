@@ -1,32 +1,32 @@
-*/ Tipos de valores */
+// Tipos de valores
 
-*/ESTOS SON LOS VALORES PRIMITIVOS */
+// ESTOS SON LOS VALORES PRIMITIVOS
 
-*/ número */
+// número 
 
 40
 
-*/ Strings para texto */
+// Strings para texto 
 
 "Renato cuéllar"
 
-*/ booleano */
+// booleano 
 
 true
 false
 
-*/valores vacios*/
+//valores vacios
 
-null */ Cuando aún no hay un valor, para después poder añadir un valor*/
+null  //Cuando aún no hay un valor, para después poder añadir un valor
 undefined
 
 
-*/ESTOS SON LOS VALORES TIPO OBJETO*/
+//ESTOS SON LOS VALORES TIPO OBJETO
 
-*/ valor tipo arrail*/
+// valor tipo arrail
 
 [1,2,3]
 
-*/ Valor tipo objeto */
+// Valor tipo objeto 
 
 { Nombre: "Diego"}

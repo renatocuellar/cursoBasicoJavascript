@@ -19,3 +19,9 @@ var resultado = function(user, cpu){
         console.log("Empate")
     }
 };
+
+conditional ? true : false; //es lo mismo que if, else
+
+vae numero = 1;
+
+var resultado = numero === 1 ? "Sí soy un uno" : "No, no soy un uno";
